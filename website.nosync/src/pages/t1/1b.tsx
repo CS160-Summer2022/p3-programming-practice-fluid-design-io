@@ -50,7 +50,7 @@ function Page1b() {
   }, [bubbleList]);
 
   return (
-    <Layout header={header}>
+    <Layout title="Task 1b" header={header}>
       <div className="row">
         <div className="col-12">
           <div className="shape-container" id="bubble-container">

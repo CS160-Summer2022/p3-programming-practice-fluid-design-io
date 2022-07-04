@@ -24,7 +24,7 @@ function Page1a() {
   );
 
   return (
-    <Layout header={header}>
+    <Layout title="Task 1a" header={header}>
       <div className="row">
         <div className="col-12">
           <div className="shape-container">
